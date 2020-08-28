@@ -20,8 +20,8 @@ while getopts ":n" opt; do
     n ) doUpdates=false
       ;;
     \? )
-        printf 'A Mac Cleanup Utility by fwartner\n'
-        printf 'https://github.com/fwartner/mac-cleanup\n\n'
+        printf 'A Mac Cleanup Utility by philrclaunchky\n'
+        printf 'https://github.com/philrclaunchky/mac-cleanup\n\n'
         printf 'USAGE:\n cleanup [FLAGS]\n\n'
         printf 'FLAGS:\n'
         printf -- '-h,   prints help menu\n'
